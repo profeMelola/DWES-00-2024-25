@@ -4,7 +4,6 @@ Repositorio principal del curso DWES
 ## Gestor de armas de Minecraft
 
 
-![alt text](image-2.png)
 
 ### Clase GestorArmas:
 
