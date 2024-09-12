@@ -41,7 +41,7 @@ Habrá dos tipos de armas diferentes:
 - Esta arma se caracteriza además por la distancia de alcance (distancia): valor decimal (float).
 
 
-**Añade el siguiente código en la clase principal de tu proyecto**
+#### **Añade el siguiente código en la clase principal de tu proyecto**
 ```
         GestorArmas gestor = new GestorArmas();
 
