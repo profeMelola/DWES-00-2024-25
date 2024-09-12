@@ -41,7 +41,27 @@ Habrá dos tipos de armas diferentes:
 - Esta arma se caracteriza además por la distancia de alcance (distancia): valor decimal (float).
 
 
-**Si has hecho todo en base a las especificaciones, los errores de código habrán desaparecido y al ejecutar el ejercicio, se mostrará lo siguiente por consola:**
+**Añade el siguiente código en la clase principal de tu proyecto**
+```
+        GestorArmas gestor = new GestorArmas();
+
+        gestor.addArma(new EspadaAcero("Espada de acero inoxidable", 100, true));
+        gestor.addArma(new EspadaHielo("Espada de hielo polar", 50, false));
+        gestor.addArma(new Arco("Arco olímpico", 75, 125.5f));
+
+        System.out.println("* Número de armas creadas:"+Arma.getContador());
+
+        System.out.println("\n* Listado de armas:");
+        System.out.println(gestor);
+
+        gestor.removeArma();
+
+        System.out.println("\n* Listado después de borrar todas las armas:");
+        System.out.println(gestor);
+
+```
+
+Si has hecho todo en base a las especificaciones, los errores de código habrán desaparecido y al ejecutar el ejercicio, se mostrará lo siguiente por consola:
 
 ![image](https://github.com/user-attachments/assets/79374539-64dc-40e2-8327-c83b901a721b)
 
