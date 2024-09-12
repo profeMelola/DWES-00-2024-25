@@ -40,7 +40,8 @@ Habrá dos tipos de armas diferentes:
 #### Arco
 - Esta arma se caracteriza además por la distancia de alcance (distancia): valor decimal (float).
 
-Si has hecho todo en base a las especificaciones, los errores de código habrán desaparecido y al ejecutar el ejercicio, se mostrará lo siguiente por consola:
 
-![alt text](image-3.png)
+**Si has hecho todo en base a las especificaciones, los errores de código habrán desaparecido y al ejecutar el ejercicio, se mostrará lo siguiente por consola:**
+
+![image](https://github.com/user-attachments/assets/79374539-64dc-40e2-8327-c83b901a721b)
 
