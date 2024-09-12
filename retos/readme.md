@@ -1,4 +1,4 @@
-# Repaso POO
+# 1. Repaso POO
 
 ## Gestor de armas de Minecraft
 
@@ -65,3 +65,17 @@ Si has hecho todo en base a las especificaciones, los errores de código habrán
 
 ![image](https://github.com/user-attachments/assets/79374539-64dc-40e2-8327-c83b901a721b)
 
+# 2. Anagrama
+
+Un anagrama es una palabra que resulta del cambio del orden de los caracteres de otra. 
+
+Ejemplos de anagramas son la palabra amor, ramo o mora.
+
+Implementa un método llamado **esAnagrama**. Dicho método recibe dos palabras y devuelve si son anagramas la una de la otra.
+
+Ejemplo de salida por consola:
+
+```
+La palabra <Amor> y la palabra <ROMA> son anagramas
+La palabra <Amor> y la palabra <rima> no anagramas
+```
