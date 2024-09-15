@@ -3,9 +3,9 @@
 Repositorio principal del módulo DWES
 
 
-
+<center>
 ![website-3374825_640](https://github.com/user-attachments/assets/72eda7f6-d0ea-4d7b-84fa-9b2398477683)
-
+</center>
 
 
 ![image](https://github.com/user-attachments/assets/41a94276-8b9a-468b-a347-6f56fd7d6f66)
