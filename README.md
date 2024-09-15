@@ -2,9 +2,9 @@
 
 Repositorio principal del módulo DWES
 
-
-<p style="text-aling:center"><img src="https://github.com/user-attachments/assets/72eda7f6-d0ea-4d7b-84fa-9b2398477683"/></p>
-
+<center>
+<img src="https://github.com/user-attachments/assets/72eda7f6-d0ea-4d7b-84fa-9b2398477683"/>
+</center>
 
 
 
