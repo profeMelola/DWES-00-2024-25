@@ -2,14 +2,15 @@
 
 Repositorio principal del módulo DWES
 
-<center>
+<p style='text-align:center'>
 <img src="https://github.com/user-attachments/assets/72eda7f6-d0ea-4d7b-84fa-9b2398477683"/>
-</center>
+</p>
 
 
 ## Unidades de trabajo
 
-<img src="https://github.com/user-attachments/assets/41a94276-8b9a-468b-a347-6f56fd7d6f66" height="500px"/>
+
+<img src="https://github.com/user-attachments/assets/91788d63-bf9f-450a-8b6c-a50c4947217a" height="500px"/>
 
 [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web](https://github.com/profeMelola/DWES-01-2024-25)
 
