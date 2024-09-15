@@ -7,11 +7,9 @@ Repositorio principal del módulo DWES
 </center>
 
 
-
-![image](https://github.com/user-attachments/assets/41a94276-8b9a-468b-a347-6f56fd7d6f66)
-
 ## Unidades de trabajo
 
+<img src="https://github.com/user-attachments/assets/41a94276-8b9a-468b-a347-6f56fd7d6f66" height="500px"/>
 [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web](https://github.com/profeMelola/DWES-01-2024-25)
 
 [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2024-25)
