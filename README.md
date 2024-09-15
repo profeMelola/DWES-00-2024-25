@@ -8,7 +8,7 @@ Repositorio principal del módulo DWES
 
 <img src="https://github.com/user-attachments/assets/91788d63-bf9f-450a-8b6c-a50c4947217a" height="500px"/>
 
-- [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web]
+- UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web
 
 - [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2024-25)
 
