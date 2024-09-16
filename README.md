@@ -2,7 +2,7 @@
 
 Repositorio principal del módulo DWES
 
-<img src='https://github.com/user-attachments/assets/c74beb86-86f0-4e4b-b091-26a5dd5c9e62' height='300'/>
+<img src='https://github.com/user-attachments/assets/2a13d888-c7cf-4a86-a7c5-b66224b5bd69' height='350'/>
 
 
 ## Resultados de aprendizaje
