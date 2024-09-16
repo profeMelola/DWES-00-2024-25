@@ -2,6 +2,8 @@
 
 Repositorio principal del módulo DWES
 
+<img src='https://github.com/user-attachments/assets/c74beb86-86f0-4e4b-b091-26a5dd5c9e62' height='300'/>
+
 
 ## Resultados de aprendizaje
 
