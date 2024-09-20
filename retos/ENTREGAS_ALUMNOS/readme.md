@@ -1,6 +1,11 @@
 # Entregas de soluciones de alumnos
 
+![image](https://github.com/user-attachments/assets/25727186-ddbd-47a4-9b4e-0c6d1a913d37)
+
+
 Sube la solución a los diferentes retos. 
+
+Vas a utilizar GitHub.
 
 Los pasos a seguir para trabajar de forma colaborativa son:
 
