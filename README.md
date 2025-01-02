@@ -17,7 +17,7 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 - RA6: Desarrolla aplicaciones web de acceso a almacenes de datos, aplicando medidas para mantener la seguridad y la integridad de la información.
 - RA7: Desarrolla servicios web reutilizables y accesibles mediante protocolos web, verificando su funcionamiento.
 - RA8: Genera páginas web dinámicas analizando y utilizando tecnologías y frameworks del servidor web que añadan código al lenguaje de marcas.
-- RA9: Desarrolla aplicaciones web híbridas seleccionando y utilizando tecnologías, frameworks servidor y repositorios heterogéneos de información.v
+- RA9: Desarrolla aplicaciones web híbridas seleccionando y utilizando tecnologías, frameworks servidor y repositorios heterogéneos de información.
 
 ## Unidades de trabajo
 
